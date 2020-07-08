@@ -37,8 +37,6 @@ func handleArgs() (err error, query, server string) {
 }
 
 func printUsage() {
-
+	// TODO: add usage message
+	// binary <query> [server]
 }
-
-// search for first argument
-// optional parameter to use a different server
